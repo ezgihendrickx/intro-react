@@ -1,6 +1,5 @@
 
-# `intro-react
-`
+# `intro-react`
 
 ## "Language: JS"
 ## "Framework: React"
