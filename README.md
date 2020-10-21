@@ -5,7 +5,7 @@
 
 ---
 
-## Learning objectives :computer:
+## Learning objectives :woman_technologist:
 
 After learning how to write PHP code, Object-Oriented Programming, the MVC pattern for code organization, and how to connect a database to your PHP application, it's now time to see for yourself how a framework can take most of the boring work off your hands.
 At the end of this 5-day challenge you will:
