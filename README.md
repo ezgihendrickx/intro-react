@@ -22,14 +22,13 @@ This is the repository for the exercise: https://github.com/becodeorg/gnt-yu-3-2
 
 This time the task is simple: you will build a small Todo application that lives in your browser, and saves todos even after browsers restart.
 
-
 ---
 
-## Tips & Deliverables :wrench:
+## Tips & Deliverables :teacher:
 
-Publish the source code on your GitHub repository
-Deploy the project on Netlify
-Tip: to deploy a React app you first run the command npm run build, and once the command finishes you will have your app ready in the build folder: just drag and drop this folder in Netlify and you are done. Easy!
+- Publish the source code on your GitHub repository
+- Deploy the project on Netlify
+- Tip: to deploy a React app you first run the command npm run build, and once the command finishes you will have your app ready in the build folder: just drag and drop this folder in Netlify and you are done. Easy!
 
 ## Author :black_nib:
 :star: Powered by Ezgi
