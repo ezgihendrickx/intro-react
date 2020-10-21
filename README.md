@@ -2,7 +2,7 @@
 
 ## "Language: JS"
 ## "Library: React" 
-## "Live: [https://react-ezgi.netlify.app/]"
+## "[Live:] (https://react-ezgi.netlify.app/)"
 ---
 
 ## Learning objectives :woman_technologist:
