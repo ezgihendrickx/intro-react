@@ -1,4 +1,4 @@
-# `Intro React :mermaid:`
+# `Intro React` :mermaid:
 
 ## "Language: JS"
 ## "Library: React" 
