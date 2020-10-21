@@ -37,7 +37,7 @@ function App() {
   }
   return (
     <>
-      <div class="text-4xl pt-10 text-center text-blue-900 text-center font-bold  bg-gray-300  h-48 font-mono">
+      <div class="text-4xl pt-10 text-blue-900 text-center font-bold  bg-gray-300  h-48 font-mono">
         <h1>
           <strong>My first Todo App</strong>
         </h1>
@@ -65,7 +65,7 @@ function App() {
           Clear Completed Todos
         </button>
 
-        <div class="font-mono font-semibold mt-6 text-white text-center font-bold mr-24 ">
+        <div class="font-mono font-semibold mt-6 text-blue-900 text-center font-bold mr-24 ">
           {todos.filter((todo) => !todo.complete).length} left to do{" "}
         </div>
       </div>
@@ -76,6 +76,10 @@ function App() {
         </h1>
         <TodoList todos={todos} toggleTodo={toggleTodo} />
       </div>
+
+      <footer class=" font-thin text-white text-center mx-24 mt-20">
+        &copy; 2020 EZGI All rights reserved.
+      </footer>
     </>
   );
 }
