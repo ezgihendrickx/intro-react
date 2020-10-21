@@ -2,7 +2,7 @@
 
 ## "Language: JS"
 ## "Library: React" 
-## <https://react-ezgi.netlify.app/> (Live)
+## <Live> 
 
 ---
 
