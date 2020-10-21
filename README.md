@@ -3,7 +3,6 @@
 ## "Language: JS"
 ## "Library: React" 
 
-
 ---
 
 ## Learning objectives :computer:
